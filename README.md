@@ -1,0 +1,1 @@
+Primeiro exercicio para introdução e implementação de interfaces na aula de Programação Orientada a Objetos em Java, no segundo semestre de Analise e Desenvolvimento de Sistemas no SENAI/SC.
